@@ -6,6 +6,9 @@ export default {
          center: true,
          padding: '10rem',
       },
+      fontFamily: {
+         robot: ['Roboto Mono', 'monospace'],
+      },
       extend: {},
    },
    plugins: [],
